@@ -2,6 +2,10 @@
 
 Outagetrkr is an outage tracker fully packed with features
 
+## Installation
+pip install -r requirements.txt
+install python mysqldb (not included in requirements.txt since so many os' ship this)
+
 ## Project Goals
 - Adding incidents by web page
 - Adding incidents by email
