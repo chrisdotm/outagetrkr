@@ -54,3 +54,4 @@ nosetests.xml
 .pydevproject
 
 ENV
+.DS_Store
