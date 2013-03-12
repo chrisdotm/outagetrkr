@@ -15,4 +15,8 @@ local_settings.py
 /lib/python*/site-packages/easy-install.pth
 /lib/python*/site-packages/setuptools.pth
 /lib/python*/site-packages/setuptools-*
+<<<<<<< Updated upstream
 /lib/python*/site-packages/pip-*
+=======
+/lib/python*/site-packages/pip-*
+>>>>>>> Stashed changes
