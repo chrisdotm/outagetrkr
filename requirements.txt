@@ -1,6 +1,5 @@
-python-openid>=2.0.0
-oauth>=1.0.0
--e git+http://github.com/facebook/python-sdk.git#egg=facebook_python_sdk
-pylinkedin>=0.1
 Django==1.5
 python-memcached==1.48
+oauth2>=1.5.167
+python_openid>=2.2
+django-social-auth==0.7.22

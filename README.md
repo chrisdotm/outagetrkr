@@ -11,7 +11,7 @@ Outagetrkr is an outage tracker fully packed with features
 
 ## Other projects being used
 
-- [uswaretech/Django-Socialauth](https://github.com/uswaretech/Django-Socialauth)
+- [omab/django-social-auth](https://github.com/omab/django-social-auth/)
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
 
 ## Project Goals
