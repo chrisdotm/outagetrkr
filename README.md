@@ -26,8 +26,6 @@ Outagetrkr is an outage tracker fully packed with features
 Copyrights and Licence
 ----------------------
 
-``django-social-auth`` is protected by BSD licence.
-
 Some bits were derived from others' work and copyrighted by:
 
 - django-social-auth::
