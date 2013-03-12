@@ -2,6 +2,7 @@ _build
 *.pyc
 dev.db
 site_media
+local_settings.py
 
 # Ignore all the virtualenv stuff except the actual packages
 # themselves
