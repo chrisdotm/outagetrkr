@@ -7,6 +7,8 @@ from django.conf.urls import patterns, include, url
 
 urlpatterns = patterns('',
     url(r'', include('social_auth.urls')),
+    url(r'rest/v1/incident/(?P<incident_id>\d+)/$', 'webapp.views.incident_readupdate'),
+    url(r'rest/v1/incident/$', 'webapp.views.incident_create'),
     # Examples:
     # url(r'^$', 'outagetrkr.views.home', name='home'),
     # url(r'^outagetrkr/', include('outagetrkr.foo.urls')),
